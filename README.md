@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Messilanik
-- 🌱 I’m currently learning C# and SQL
+- 🌱 I’m currently learning Front-end for web apps
 - 💞️ I’m looking to collaborate on beginner projects 
 
 <!---
